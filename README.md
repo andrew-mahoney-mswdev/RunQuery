@@ -1,2 +1,0 @@
-# RunQuery
-Sample SQL queries
